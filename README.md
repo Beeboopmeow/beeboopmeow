@@ -10,7 +10,6 @@
   <br>
   💗 Cats - Games - Coding - Art
   
-  
   <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -21,14 +20,15 @@
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
-  
-  
+
   <br>
   
   <div>
     <a href = "mailto:constanzemiranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/constanze-miranda-5a55a9210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+  <br>
   
   <img src="https://github.com/Beeboopmeow/beeboopmeow/blob/main/assets/nier.gif" width="25%" align="center" />
 </div>
