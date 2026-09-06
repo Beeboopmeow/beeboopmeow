@@ -1,5 +1,3 @@
-<img src="https://github.com/Beeboopmeow/beeboopmeow/blob/main/assets/ico.png" width="25%" align="right" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F796D6&center=true&random=false&width=435&lines=hello%2C+my+name+is+Constanze+%E2%8B%86%E0%B1%A8%E0%A7%8E%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1;welcome+to+my+profile+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1)](https://git.io/typing-svg)
@@ -31,6 +29,4 @@
   </div>
 
   <br>
-  
-  <img src="https://github.com/Beeboopmeow/beeboopmeow/blob/main/assets/nier.gif" width="20%" align="center" />
 </div>
